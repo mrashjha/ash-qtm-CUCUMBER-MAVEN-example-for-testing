@@ -43,7 +43,7 @@
             <groupId>org.apache.maven.plugins</groupId>
             <artifactId>maven-surefire-plugin</artifactId>
             <version>2.18.1</version>
-            <configuration>
+         <!--   <configuration>
                 <systemPropertyVariables>
                     <server>https://importresults.qmetry.com/prod/importresults-qtm4j</server>
                     <apiKey>b619773623cbeff8df293aa04c2f6dd2df706fa07c35d4032c3db5f137efrf9</apiKey>
@@ -52,6 +52,7 @@
                     
                 </systemPropertyVariables>
             </configuration>
+          -->
         </plugin>
     </plugins>
 </build>
