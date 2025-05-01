@@ -47,7 +47,7 @@
                 <systemPropertyVariables>
                     <server>https://importresults.qmetry.com/prod/importresults-qtm4j</server>
                     <apiKey>b619773623cbeff8df293aa04c2f6dd2df706fa07c35d4032c3db5f137efrf9</apiKey>
-                    <!-- testRunName : Provide the name for the new test run -->
+                     testRunName : Provide the name for the new test run 
                     <testRunName>New Test Run</testRunName>
                     
                 </systemPropertyVariables>
